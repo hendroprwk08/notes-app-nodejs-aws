@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "@hapi/hapi": "^21.3.0",
-    "nodemon": "^2.0.21"
+    "@hapi/hapi": "^21.3.0"
   },
   "scripts": {
     "start": "nodemon server.js"
@@ -19,5 +18,8 @@
     "url": "https://github.com/hendroprwk08/notes-app-nodejs-aws/issues"
   },
   "homepage": "https://github.com/hendroprwk08/notes-app-nodejs-aws#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
